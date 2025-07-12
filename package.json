@@ -1,0 +1,30 @@
+{
+  "name": "temp-chat",
+  "version": "1.0.0",
+  "description": "Temporary chat",
+  "main": "main.jsx",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chikine/Temp-Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Chikine/Temp-Chat/issues"
+  },
+  "homepage": "https://github.com/Chikine/Temp-Chat#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.3"
+  },
+  "dependencies": {
+    "firebase": "^11.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
